@@ -10,3 +10,5 @@ Task 9: 8-true_knowledge
 Task 10: 9-divide_and_rule
 Task 11: 10-love_exponent_breath
 TAsk 12: 11-binary_to_decimal
+TAsk  13: 12-combinations
+Task 14: 13-print_float
